@@ -34,3 +34,14 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## TODOS: 
+1. Add the missing input fields (in (in src/app/EnergyMonitoringForm.tsx)
+2. Update the formula according to you (in src/app/lib/calculator.ts)
+3. Add a pricing field inside the products, and all the data ((in src/app/lib/data.ts)
+4. Suggest changes
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
